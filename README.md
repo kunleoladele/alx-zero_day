@@ -1,2 +1,2 @@
 My first readme
-Alx has given me a rare opportunity to become a software egineer, I'm so happy
+Alx has been an amazing platform, I'm learning a lot from peers and mentor
